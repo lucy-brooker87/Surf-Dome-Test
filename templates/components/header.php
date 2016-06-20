@@ -7,7 +7,7 @@
 		<div class="field">
 			<label for="search">Search</label>
 			<input type="search" name="search" id="search" placeholder="Search..." />
-			<button>Search</button>
+			<button type="submit">Search</button>
 		</div>
 
 	</div>
